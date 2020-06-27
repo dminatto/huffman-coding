@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="Arvore.h" open="0" top="0" tabpos="0">
+		<Cursor position="215" topLine="0" />
+	</File>
+	<File name="OrdenaLista.h" open="0" top="0" tabpos="0">
+		<Cursor position="507" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="1501" topLine="15" />
+	</File>
+	<File name="montaArvoreBinariaCompleta.h" open="0" top="0" tabpos="0">
+		<Cursor position="1465" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
